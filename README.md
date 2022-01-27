@@ -1,8 +1,8 @@
-<h1 style="text-align: center;"> Hi there, I'm Zakir 👋 </h1>
+<h1 style="text-align: center;"> Hi there, I'm Muyeed Hossain 👋 </h1>
 
 <h2>About Me</h2>
 
-<p>I'm a computer science student at Ryerson University. I enjoy working in a variety of fields, even if they're not cs-based. My interests currently lie in Software Development, Data Analysis and Software Engineering. Though you will find a lot of my work here, you can find out more about me through my <a href="https://zakirdawood.herokuapp.com/" target="_blank">portfolio website</a>.</p>
+<p>I'm a computer science student at Ryerson University. </a>.</p>
 
 <h2>Skills</h2>
 <h3>Languages</h3>
@@ -13,13 +13,12 @@
     <li>CSS</li>
     <li>PHP</li>
     <li>Visual Basic</li>
-    <li>JavaScript</li>
-    <li>Lisp (yes, i know)</li>
+    <li>Lisp</li>
     <li>C</li>
   </ul>
  <h3>Technologies/Frameworks</h3>
    <ul>
-    <li>SQL/mySQL</li>
+    <li>SQL/mySQL (little bit)</li>
     <li>Bootstrap</li>
     <li>Semantic UI</li>
     <li>Django</li>
