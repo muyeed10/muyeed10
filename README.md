@@ -11,7 +11,7 @@
 
 I'm a full stack software engineer passionate about building scalable applications and clean user experiences. I enjoy working with modern cloud-native tools and am always eager to learn and contribute to impactful projects.
 
-- 🧑‍💻 Recent Software Engineer Intern @ **PointClickCare** – Built fast and secure REST APIs using Spring Boot and Elasticsearch on Azure
+- 🧑‍💻 Recent Software Engineer Intern @ **PointClickCare** – Built fast and secure REST APIs using Spring Boot, Redis, Kafka, Azure SQL, Elasticsearch, etc
 - 🏛️ Past Internships @ **Ontario Public Services** and **AMD**
 - 🚀 Open to new grad opportunities in **Full-Stack**, **Front-end**, **Backend**, **ML**, **Data Science**, or **Cloud Development**
 - 📊 Exploring Machine Learning, DevOps, and Performance Optimization
