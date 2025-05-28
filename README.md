@@ -21,10 +21,9 @@ I'm a full stack software engineer passionate about building scalable applicatio
 
 ## ⚙️ Skills & Technologies
 
-| Languages             | Frameworks & Libraries                         | DevOps & Tools                          |
-|-----------------------|-----------------------------------------------|------------------------------------------|
-| Python, JavaScript, TypeScript, Java, SQL, HTML, CSS | React, Angular, Node.js, Django, Next.js, Spring Boot | Docker, Kubernetes, Jenkins, Azure, Git, Jira, Power BI |
-| Databases: MSSQL, MongoDB, MySQL, Oracle | Pandas, NumPy, Scikit-learn, PyTorch | AWS, Bitbucket, Datadog, Linux |
+| Languages             | Frameworks & Libraries                         | DevOps & Tools                          | DevOps & Tools                          | 
+|-----------------------|------------------------------------------------|-----------------------------------------|-----------------------------------------|
+| Python, JavaScript, TypeScript, Java, SQL, HTML, CSS | React, Angular, Node.js, Django, Next.js, Spring Boot, Pandas, NumPy, TensorFlow, Scikit-learn, PyTorch | AWS, Bitbucket, Datadog, Linux | MSSQL, MongoDB, MySQL, Oracle |  Docker, Kubernetes, Jenkins, Azure, Git, Jira, Power BI |
 
 ---
 
