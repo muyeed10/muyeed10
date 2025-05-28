@@ -1,36 +1,45 @@
-<h1 style="text-align: center;"> Hi there, I'm Muyeed Hossain 👋 </h1>
+# Hi, I’m Muyeed 👋
 
-<h2>About Me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muyeedh/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muyeedh05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://muyeed10.github.io/Portfolio/)
+![Location](https://img.shields.io/badge/Toronto--based-lightgrey?style=for-the-badge)
 
-<p>I'm a computer science student at Ryerson University. </a>.</p>
+---
 
-<h2>Skills</h2>
-<h3>Languages</h3>
-  <ul>
-    <li>Python</li>
-    <li>Java</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>PHP</li>
-    <li>Visual Basic</li>
-    <li>Lisp</li>
-    <li>C</li>
-  </ul>
- <h3>Technologies/Frameworks</h3>
-   <ul>
-    <li>SQL/mySQL (little bit)</li>
-    <li>Bootstrap</li>
-    <li>Semantic UI</li>
-    <li>Django</li>
-   </ul>
-   
-<h2>Current Status</h2>
-<p>As the Winter semester has started up again, my main focus shifts to my academic commitments again. In my spare time, I'm working with my friend on creating a site to help high school students with their university applications. Once the site is completed and/or hosted, the repository will be available.</p>
-<p>On a more fun note, I'm always watching a tonne of shows (current completion count at about 30). I'm currently on season 7 of the Office and season 6 of Suits. Hmu if you have any interesting shows!</p>
+## 💡 About Me
 
-<h2>Statistics</h2>
+I'm a full stack software engineer passionate about building scalable applications and clean user experiences. I enjoy working with modern cloud-native tools and am always eager to learn and contribute to impactful projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyeed10&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muyeed10)](https://git.io/streak-stats)
+- 🧑‍💻 Recent Software Engineer Intern @ **PointClickCare** – Built fast and secure REST APIs using Spring Boot and Elasticsearch on Azure
+- 🏛️ Past Internships @ **Ontario Public Services** and **AMD**
+- 🚀 Open to new grad opportunities in **Full-Stack**, **Backend**, or **Cloud Development**
+- 📊 Exploring Machine Learning, DevOps, and Performance Optimization
+- 🧠 Always up for learning and collaborating on exciting tech
 
+---
 
+## ⚙️ Skills & Technologies
+
+| Languages             | Frameworks & Libraries                         | DevOps & Tools                          |
+|-----------------------|-----------------------------------------------|------------------------------------------|
+| Python, JavaScript, TypeScript, Java, SQL, HTML, CSS | React, Angular, Node.js, Django, Next.js, Spring Boot | Docker, Kubernetes, Jenkins, Azure, Git, Jira, Power BI |
+| Databases: MSSQL, MongoDB, MySQL, Oracle | Pandas, NumPy, Scikit-learn, PyTorch | AWS, Bitbucket, Datadog, Linux |
+
+---
+
+## 🧪 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **TMU Marketplace** | Full-stack e-commerce app with role-based access and JWT auth | React, Node.js, PostgreSQL, Supabase |
+| **Resume Analyzer** | LLM-powered app that matches resumes to job descriptions | Python, OpenAI API, Flask |
+| **Soccer Data Analysis** | Dashboard + ML model to analyze and predict player performance | Power BI, Python, NumPy, Scikit-learn |
+
+🔗 See more on my [portfolio](https://muyeed10.github.io/Portfolio/)
+
+---
+
+## 📈 GitHub Stats
+
+![Muyeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muyeed10&show_icons=true&theme=tokyonight)
